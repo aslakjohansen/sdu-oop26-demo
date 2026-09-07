@@ -5,7 +5,7 @@ TBC
 pasta:
 - pasta
 - salt
-- ingrediens
+- ingredients
 
 Salat:
 - 2 tomato
