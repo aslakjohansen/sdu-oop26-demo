@@ -12,3 +12,8 @@ Salat:
 - 1 chicken
 - 3 feta
 
+sandwich:
+- brød
+- pasta
+- salat
+
