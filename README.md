@@ -12,8 +12,8 @@ Salat:
 - 1 chicken
 - 3 feta
 
-sandwich:
+BETTER sandwich:
 - bread
 - pasta
-- salat
+- ingridients
 
