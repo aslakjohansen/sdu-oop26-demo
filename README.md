@@ -2,6 +2,11 @@
 
 TBC
 
+pasta:
+- pasta
+- salt
+- ingrediens
+
 Salat:
 - 2 tomato
 - 1 chicken
