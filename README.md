@@ -3,7 +3,7 @@
 TBC
 
 Salat:
-- 2 tomat
-- 1 kylling
+- 2 tomato
+- 1 chicken
 - 3 feta
 
