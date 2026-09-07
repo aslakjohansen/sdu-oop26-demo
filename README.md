@@ -13,7 +13,7 @@ Salat:
 - 3 feta
 
 sandwich:
-- brød
+- bread
 - pasta
 - salat
 
